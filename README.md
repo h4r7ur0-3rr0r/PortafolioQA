@@ -17,3 +17,6 @@ Este proyecto automatiza pruebas en MercadoLibre utilizando:
 4.-Ordena por precio (mayor a menor)
 5.-Obtiene los 5 primeros resultados
 6.-Genera reportes HTML con evidencias
+
+Ejecutar
+pytest tests/test_mercadolibre.py -v --html=Reports/report.html --self-contained-html
