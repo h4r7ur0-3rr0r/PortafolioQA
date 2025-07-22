@@ -1,0 +1,5 @@
+# Dependencias principales
+webdriver-manager==4.0.2
+pytest-html==4.1.1
+pytest == 8.3.5
+selenium == 4.34.2
